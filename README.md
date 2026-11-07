@@ -6,6 +6,11 @@ My practice projects for learning how to work with APIs in Python: collecting da
 
 - [API konspekt](api-konspekt.md): step-by-step notes with code (API → Pandas → CSV/Excel → analysis → SQL → Power BI)
 
+## Projects
+
+- [1-currency-api](1-currency-api): USD exchange rate
+- [2-weather-api](2-weather-api): current weather in Kokand
+
 ## Tools
 
 Python · Requests · Pandas · Matplotlib · Seaborn · SQL
