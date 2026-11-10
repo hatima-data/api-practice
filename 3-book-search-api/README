@@ -1,0 +1,14 @@
+# Book Search API
+
+Searched Python books using the Open Library API with Python.
+
+## What I did
+
+- Sent a request to the Open Library search API
+- Got the data in JSON format
+- Took the first 10 books and extracted title, author and first publish year
+- Converted the data into a Pandas table
+
+## Tools
+
+Python, Requests, Pandas, Jupyter Notebook
