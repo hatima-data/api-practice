@@ -10,6 +10,7 @@ My practice projects for learning how to work with APIs in Python: collecting da
 
 - [1-currency-api](1-currency-api): USD exchange rate
 - [2-weather-api](2-weather-api): current weather in Kokand
+- [3-book-search-api](3-book-search-api): Python books search
 
 ## Tools
 
